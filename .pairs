@@ -1,0 +1,10 @@
+# .pairs - configuration for 'git pair'
+pairs:
+  # <initials>: <Firstname> <Lastname>[; <email-id>]
+  tb: Tyler Brown; elementalplug
+  js: Joey Sandine; jasandine
+email:
+  prefix: pair
+  domain: gmail.com
+  # no_solo_prefix: true
+#global: true
